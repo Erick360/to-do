@@ -43,7 +43,6 @@ class AddTaskScreen extends StatelessWidget{
                     color: Colors.white
                   ),
                 ),
-
               ),
             ],
           ),
